@@ -1,4 +1,4 @@
-All i did was make it be able to go wider. ok bye
+# The default config is wide enough.
 
 the changes are just those in `java/me/redcarlos/higtools/modules/main/HighwayBuilderHIG.java`
 
